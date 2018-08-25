@@ -1,0 +1,24 @@
+NOAA/NOS/CO-OPS
+Disclaimer: These data are based upon the latest information available as of the date of your request, and may differ from the published tide tables.
+Daily Tide Predictions
+StationName: COW ISLAND, CASCO BAY 
+State: ME 
+Stationid: 8418009
+ReferencedToStationName: Portland
+ReferencedToStationId: 8418150
+HeightOffsetLow: * 1
+HeightOffsetHigh: * 1
+TimeOffsetLow: 0
+TimeOffsetHigh: -1
+Prediction Type: Subordinate
+From: 20170317 02:51 - 20170317 21:21
+Units: Feet
+Time Zone: LST_LDT
+Datum: MLLW
+Interval Type: High/Low
+
+Date 		Day	Time	Pred	High/Low
+2017/03/17	Fri	02:51	9.36	H
+2017/03/17	Fri	09:08	0.39	L
+2017/03/17	Fri	15:20	8.73	H
+2017/03/17	Fri	21:21	0.98	L
