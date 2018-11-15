@@ -24,6 +24,10 @@ Data was collected from Bigelow labs from several boating trips around the kelp 
 
 > Example Visualizations
 
+<img src="PCA%20and%20Clustering/PCA%20with%20Clustering%20(n=4)/2017_12_19_cluster.png" width="300" height="300"> 
+
+      
+
 Animations to display change of CO2 over time and more visualizations can be found in the 
 
 > Results and Analysis
