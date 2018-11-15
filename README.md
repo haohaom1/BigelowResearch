@@ -33,7 +33,7 @@ Data was collected from Bigelow labs from several boating trips around the kelp 
 
       
 
-Animations to display change of CO2 over time and more visualizations can be found in the 
+Animations to display change of CO2 over time and more visualizations can be found in the <b>visualization</b> folder
 
 ### Results and Analysis
 
