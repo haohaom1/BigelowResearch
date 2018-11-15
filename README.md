@@ -24,7 +24,11 @@ Data was collected from Bigelow labs from several boating trips around the kelp 
 
 > Example Visualizations
 
+<div style="display: block; float: left">
 <img src="PCA%20and%20Clustering/PCA%20with%20Clustering%20(n=4)/2017_12_19_cluster.png" width="300" height="300"> 
+<img src="PCA%20and%20Clustering/Boat%20Paths%20with%20Clustering%20from%20PCA%20Space/2017_12_19_boat_path.png" width="300 height="300">
+<div class="clear"></div>
+</div>
 
       
 
