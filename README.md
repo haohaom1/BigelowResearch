@@ -1,7 +1,7 @@
 # BigelowResearch
 > Modelling the effect of Kelp on Ocean Chemistry and Mussel Growth
 
-This is the research I did for Bigelow Laboratory for Ocean Sciences, working closely with Professor Bruce Maxwell and Dr. Nichole Price
+This is the research I did for Bigelow Laboratory for Ocean Sciences, working closely with Professor Bruce Maxwell and Dr. Nichole Price.
 
 ### Summary
 
@@ -33,7 +33,7 @@ Data was collected from Bigelow labs from several boating trips around the kelp 
 
       
 
-Animations to display change of CO2 over time and more visualizations can be found in the <b>visualization</b> folder
+Animations to display change of CO2 over time and more visualizations can be found in the <b>visualization</b> folder.
 
 ### Results and Analysis
 
