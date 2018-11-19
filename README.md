@@ -37,8 +37,8 @@ Animations to display change of CO2 over time and more visualizations can be fou
 
 ### Results and Analysis
 
-These visualizations have helped biologists and ecologists at Bigelow Laboratory understand the effect of a kelp farm in the vicinity of a mussels. It is clear from the heatmaps that the kelp has an impact on the mussel growth, but whether the impact is positive or negative is yet to be determined. Therefore, definite conclusions on the effects of the kelp farm cannot be drawn yet.
+These visualizations have helped biologists and ecologists at Bigelow Laboratory understand the effect of a kelp farm in the vicinity of a mussels. My heatmaps have spotted an interesting anomaly: in some months, such as March 2018, the kelp seemed to have a negative effect on the surrounding. However, in other months, such as May 2017, the kelp seems to lower surrounding CO_2 levels. Therefore, a definitive conclusion cannot be established at this time, but it is clear that the kelp has an effect in its surroundings.
 
 ### Tools and Packages
 
-I made my plots and visualizations using Matplotlib in Python. Data cleaning and processing was done using Pandas.
+I made my plots and visualizations using Matplotlib in Python. Data cleaning and processing was done using Pandas in Python. Some techniques I used were Bilateral Filtering and Gaussian Process for heatmaps.
