@@ -37,7 +37,7 @@ Animations to display change of CO2 over time and more visualizations can be fou
 
 ### Results and Analysis
 
-These visualizations have helped biologists and ecologists at Bigelow Laboratory understand the effect of a kelp farm in the vicinity of a mussels. My heatmaps have spotted an interesting anomaly: in some months, such as March 2018, the kelp seemed to have a negative effect on the surrounding. However, in other months, such as May 2017, the kelp seems to lower surrounding CO_2 levels. Therefore, a definitive conclusion cannot be established at this time, but it is clear that the kelp has an effect in its surroundings.
+These visualizations have helped biologists and ecologists at Bigelow Laboratory understand the effect of a kelp farm in the vicinity of a mussels. My heatmaps have spotted an interesting anomaly: in some months, such as March 2018, the kelp seemed to have a negative effect on the surrounding. However, in other months, such as May 2017, the kelp seems to lower surrounding CO2 levels. Therefore, a definitive conclusion cannot be established at this time, but it is clear that the kelp has an effect in its surroundings.
 
 ### Tools and Packages
 
