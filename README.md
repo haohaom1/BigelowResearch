@@ -126,12 +126,24 @@ I also have included the current direction, as well as a relative magnitude scal
 
 There also exists a lag time from when the boat collects the data to when the data actually reaches the boat. The lag time is estimated to be between 1 and 5 minutes. For each date, the left column represents the interpolated values using the original data, and the right represents the interpolated values using the corrected latitude and longitude. For the corrected values, the lag time is set to 200 seconds.
 
+<div style="display: block; float: left; margin-bottom: 20px;">
+      <img src="Visualization/Bilateral%20Filter/Single%20Frame%20Estimation/CO2/2017-03-17%20Corrected%20pCO2_single_frame.png" width="250" height="250"> 
+      <img src="Visualization/Bilateral%20Filter/Single%20Frame%20Estimation/CO2/2017-05-02%20Corrected%20pCO2_single_frame.png" width="250" height="250">
+      <img src="Visualization/Bilateral%20Filter/Single%20Frame%20Estimation/CO2/2017-12-19%20Corrected%20pCO2_single_frame.png"         
+width="250" height="250"> 
+      <img src="Visualization/Bilateral%20Filter/Single%20Frame%20Estimation/CO2/2018-03-28%20Corrected%20fCO2_single_frame.png"         
+width="250" height="250"> 
+      <img src="Visualization/Bilateral%20Filter/Single%20Frame%20Estimation/CO2/2018-05-07%20Corrected%20fCO2_single_frame.png"         
+width="250" height="250"> 
+<div class="clear"></div>
+</div>
+
 #### Addendum
 
 Tidal and Current data are collected from the CAB1409 buoy
 
 <div style="display: block; float: left; margin-bottom: 20px;">
-      <img src="NOAA_Stations.png" width="250" height="250"> 
+      <img src="NOAA_Stations.png" width="350" height="250"> 
 <div class="clear"></div>
 </div>
 
