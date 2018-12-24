@@ -153,4 +153,4 @@ These visualizations have helped biologists and ecologists at Bigelow Laboratory
 
 ### Tools and Packages
 
-I made my plots and visualizations using Matplotlib in Python. Data cleaning and processing was done using Pandas in Python. Some techniques I used were Bilateral Filtering and Gaussian Process for heatmaps.
+I made my plots and visualizations using Matplotlib and Seaborn in Python. Data cleaning and processing was done using Pandas and Numpy in Python.
